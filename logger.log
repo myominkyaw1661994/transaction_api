@@ -1,0 +1,13 @@
+{"level":"error","message":"fail Sat Feb 03 2024 12:04:14 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"fail Sat Feb 03 2024 12:04:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"fail Sat Feb 03 2024 12:05:59 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"mmk was someting wrong Sat Feb 03 2024 12:06:38 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"c.getUsersById is not a function Sat Feb 03 2024 14:05:00 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"c.getUsersById is not a function Sat Feb 03 2024 14:05:15 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'id') Sat Feb 03 2024 14:05:36 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"WHERE parameter \"userId\" has invalid \"undefined\" value Sat Feb 03 2024 14:26:03 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"WHERE parameter \"userId\" has invalid \"undefined\" value Sat Feb 03 2024 14:26:03 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"WHERE parameter \"userId\" has invalid \"undefined\" value Sat Feb 03 2024 14:27:10 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"WHERE parameter \"userId\" has invalid \"undefined\" value Sat Feb 03 2024 14:53:39 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"WHERE parameter \"userId\" has invalid \"undefined\" value Sat Feb 03 2024 14:53:39 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"WHERE parameter \"userId\" has invalid \"undefined\" value Sat Feb 03 2024 14:55:38 GMT+0630 (Myanmar Time)"}
