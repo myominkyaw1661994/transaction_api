@@ -28,6 +28,5 @@ function validateTransaction(user) {
   return schema.validate(user);
 }
 
-
 module.exports = Transaction;
 module.exports.validateTransaction = validateTransaction

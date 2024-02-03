@@ -3,7 +3,6 @@ const sequelize = require('../database/db');
 const Joi = require('joi');
 const jwt = require("jsonwebtoken");
 
-
 const User = sequelize.define('Users', {
    name: {
      type: DataTypes.STRING,
@@ -23,7 +22,6 @@ const User = sequelize.define('Users', {
      defaultValue: false
    }
 })
-
 
 function validateUser(user) {
   const schema = Joi.object({
@@ -47,6 +45,3 @@ function generateUserAuthToken(user) {
 module.exports = User;
 module.exports.validateUser = validateUser; 
 module.exports.generateAuthToken = generateUserAuthToken
-
-
-
